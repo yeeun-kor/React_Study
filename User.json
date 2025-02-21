@@ -1,7 +1,7 @@
 [{
-  "id":1,"name":"정예은","age":28,"Color":"blue"
+  "id":1,"name":"정예은","age":28,"Color":"blue","hobbies":["게임","축구","클라이밍","골프"]
 },{
-  "id":2,"name":"추자현","age":47,"Color":"red"
+  "id":2,"name":"추자현","age":47,"Color":"red","hobbies":["볼링","골프"]
 },{
-  "id":3,"name":"김성철","age":33,"Color":"orange"
+  "id":3,"name":"김성철","age":33,"Color":"orange","hobbies":["롤","오버워치","낚시","테니스"]
 }]
