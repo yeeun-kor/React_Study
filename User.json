@@ -4,4 +4,6 @@
   "id":2,"name":"추자현","age":47,"Color":"red","hobbies":["볼링"],"score":[80,90]
 },{
   "id":3,"name":"김성철","age":33,"Color":"orange","hobbies":["롤","오버워치","낚시","테니스"],"score":[50,40,70]
+},{
+  "id":4,"name":"고우림","age":38,"Color":"orange","hobbies":["노래부르기"],"score":[30]
 }]
