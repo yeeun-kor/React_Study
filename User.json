@@ -1,5 +1,5 @@
 [{
-  "id":1,"name":"정예은","age":28,"Color":"blue","hobbies":["게임","축구","클라이밍","골프"],"score":80
+  "id":1,"name":"정예은","age":28,"Color":"blue","hobbies":["게임","축구","클라이밍","골프"],"score":[80]
 },{
   "id":2,"name":"추자현","age":47,"Color":"red","hobbies":["볼링","골프"],"score":[80,90]
 },{
